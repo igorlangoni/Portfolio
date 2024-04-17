@@ -1,5 +1,7 @@
 ## Portfolio
 
+ <b> Live Demo: <a href="https://igorlangoni.github.io/portfolio/">igorlangoni.github.io/portfolio/ </a> </b>
+
 ### Overview
 
 The idea behind this project was to combine my interest in front-end development with the benefits of having a personal portfolio webpage to showcase my skills to friends, family and potential employers. I had done some front-end before, but this one was hands-down the most fun I ever had doing it. Plus, the fact that it has real-world applications makes it even more special.
