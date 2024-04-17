@@ -34,3 +34,18 @@ Speaking of having stuff in place, the media queries were particularly difficult
 I took the inspiration for the design from the internet. Moving forward I want to be able to come up with my own designs.
 
 
+#### Home
+![Home Picture](/assets/index.png)
+
+#### About
+![About Picture](/assets/about.png)
+
+#### Experience
+![Experience Picture](/assets/experience1.png)
+
+#### Projects
+![Projects Picture](/assets/projects.png)
+
+#### Contact
+![Contact Picture](/assets/contact.png)
+
