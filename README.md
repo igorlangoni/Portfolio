@@ -35,17 +35,17 @@ I took the inspiration for the design from the internet. Moving forward I want t
 
 
 #### Home
-![Home Picture](https://github.com/igorlangoni/portfolio/tree/main/assets/index.png)
+![Home Picture](/assets/index.png)
 
 #### About
-![About Picture](https://github.com/igorlangoni/portfolio/tree/main/assets/about.png)
+![About Picture](/assets/about.png)
 
 #### Experience
-![Experience Picture](https://github.com/igorlangoni/portfolio/tree/main/assets/experience1.png)
+![Experience Picture](/assets/experience1.png)
 
 #### Projects
-![Projects Picture](https://github.com/igorlangoni/portfolio/tree/main/assets/projects.png)
+![Projects Picture](/assets/projects.png)
 
 #### Contact
-![Contact Picture](https://github.com/igorlangoni/portfolio/tree/main/assets/contact.png)
+![Contact Picture](/assets/contact.png)
 
