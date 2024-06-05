@@ -9,13 +9,13 @@ function redirect(id) {
     if (id == 'project1') {
         window.open("https://www.github.com/igorlangoni/final_project_data_eng_makers", '_blank');  
     } else if (id == 'project2') {
-        location.href = "https://www.github.com/igorlangoni/online_retail_data_pipeline";  
+        window.open("https://www.github.com/igorlangoni/online_retail_data_pipeline", '_blank');  
     } else if (id == 'project3') {
-        location.href = "https://www.github.com/igorlangoni/makersbnb_project";
+        window.open("https://www.github.com/igorlangoni/makersbnb_project", '_blank'); 
     } else if (id == 'linkedin-logo') {
-        location.href = "https://www.linkedin.com/in/igor-langoni";
+        window.open("https://www.linkedin.com/in/igor-langoni", '_blank'); 
     } else if (id == 'github-logo') {
-        location.href = "https://www.github.com/igorlangoni";
+        window.open("https://www.github.com/igorlangoni", '_blank'); 
     }
 }
 
