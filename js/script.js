@@ -6,7 +6,8 @@ function toggleMenu() {
 }
 
 function redirect(link) {
-    location.href = link
+    url = link
+    location.href = `"${url}"`
 }
 
 // document.getElementById('project1').onclick = function () {
