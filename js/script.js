@@ -7,7 +7,7 @@ function toggleMenu() {
 
 function redirect(id) {
     if (id == 'project1') {
-        location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";  
+        window.open("https://www.github.com/igorlangoni/final_project_data_eng_makers");  
     } else if (id == 'project2') {
         location.href = "https://www.github.com/igorlangoni/online_retail_data_pipeline";  
     } else if (id == 'project3') {
