@@ -5,21 +5,17 @@ function toggleMenu() {
     icon.classList.toggle("open");
 }
 
-function redirect(link) {
-    url = link
-    location.href = `"${url}"`;
-};
-
-// document.getElementById('project1').onclick = function () {
-//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
-// };
-
-// document.getElementById('project2').onclick = function () {
-//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
-// };
-
-// document.getElementById('project3').onclick = function () {
-//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
-// };
-
+function redirect(id) {
+    if (id == 'project1') {
+        location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";  
+    } else if (id == 'project2') {
+        location.href = "https://www.github.com/igorlangoni/online_retail_data_pipeline";  
+    } else if (id == 'project3') {
+        location.href = "https://www.github.com/igorlangoni/makersbnb_project";
+    } else if (id == 'linkedin-logo') {
+        location.href = "https://www.linkedin.com/in/igor-langoni";
+    } else if (id == 'github-logo') {
+        location.href = "https://www.github.com/igorlangoni";
+    }
+}
 
