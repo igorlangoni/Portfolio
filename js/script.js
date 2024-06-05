@@ -6,5 +6,5 @@ function toggleMenu() {
 }
 
 document.getElementById('project1').onclick = function () {
-    location.href = 'https:/www.github.com/igorlangoni/final_project_data_eng_makers'
-}
+    location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
+};
