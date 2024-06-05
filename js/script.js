@@ -5,6 +5,20 @@ function toggleMenu() {
     icon.classList.toggle("open");
 }
 
-document.getElementById('project1').onclick = function () {
-    location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
-};
+function redirect(link) {
+    location.href = link
+}
+
+// document.getElementById('project1').onclick = function () {
+//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
+// };
+
+// document.getElementById('project2').onclick = function () {
+//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
+// };
+
+// document.getElementById('project3').onclick = function () {
+//     location.href = "https://www.github.com/igorlangoni/final_project_data_eng_makers";
+// };
+
+
