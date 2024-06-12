@@ -98,7 +98,7 @@
         justify-content: center;
     }
     .about-pic {
-        content: url(./assets/landscape_small.jpeg);
+        content: url(../assets/landscape_small.jpeg);
     }
     .section__text__p2 {
         font-size: 1.5rem;
